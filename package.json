@@ -15,6 +15,7 @@
     "nuxt": "^3.13.0",
     "nuxt-app": "file:",
     "vue": "latest",
-    "vue-router": "latest"
+    "vue-router": "latest",
+    "yup": "^1.4.0"
   }
 }
